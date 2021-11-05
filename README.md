@@ -26,9 +26,9 @@
 
 
   <br>
-<h3  align="center">Connect with me:</h3>
-<p align="center">
+<h3  align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/giovana-franco-borges-607073184/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="giovana-franco-borges-607073184/" height="50" width="50" color="white" /></a>
-  <a href="https://www.behance.net/giovana_borges" target="blank"><img align="center" color="white" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="giovana_borges" height="50" width="50" color="white" /></a>
+  <a href="https://www.behance.net/giovana_borges" target="blank"><h1>Behance</h1></a>
 </p>
 <br>
