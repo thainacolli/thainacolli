@@ -1,10 +1,22 @@
                    
-               👀 my name is giovana franco and i starting learning programming at ETEC(guainases) 🎓 .
-                         🎉✨ i intend to be a back-end developer and work with react native !.
-             🤔 i am new at programming universe , but i always excited to discover new technologies and practice what i know. 
-                                 📚 i'm currently learning javascript and react .
+    
+                         
              
-⚡ Fun fact: i love study programming , but hate study other thing 😂🤣.
+      
+                                                      
+                                                      
+<div align="center">
+  <br><br>
+             👀 my name is giovana franco and i am a Fullstack developer java🎓 .<br>
+                    📚 i'm currently learning reactJS and SpringBoot . <br>
+                      🎉✨ i intend to work with react native !.  <br>
+          🤔  i always excited to discover new technologies and practice what i know. <br><br>
+              ⚡ Fun fact: i love study programming , but hate study other thing 😂🤣.
+      <br><br>
+                                                
+</div>
+             
+
 
 
 
