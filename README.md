@@ -22,8 +22,8 @@
 
 
 <div>
-<img height="200cm"  src="https://github-readme-stats.vercel.app/api?username=GiovanaBorges&show_icons=true&theme=radical" />
-<img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaBorges&layout=compact" />
+<img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api?username=GiovanaBorges&show_icons=true&theme=radical" />
+<img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaBorges&layout=compact" />
 </div>
 
 
