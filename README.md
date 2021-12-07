@@ -31,6 +31,22 @@ O que me define até esse momento ?
 
   <br>
   
+  ### Principais Soft Skills:
+
+![Resiliência](https://img.shields.io/badge/-Resiliência-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
+![Flexibilidade](https://img.shields.io/badge/-flexibilidade-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
+![Comunicação](https://img.shields.io/badge/-Comunica%C3%A7%C3%A3o-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
+        
+### Ferramentas
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=for-the-badge&logo=trello&logoColor=ffffff)&nbsp;
+![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion&logoColor=ffffff)&nbsp;
+
+
+  
 Bom... Sou um entusiasta da tecnologia e acredito que somente ela tornará um mundo mais acessível e igualitário para todos 👨👩👳👦 !
 ### Principais Hard Skills:
 
