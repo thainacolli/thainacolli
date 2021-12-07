@@ -2,21 +2,13 @@
     
                          
              
-      
-                                                      
-                                                      
-<div align="center">
-  <br><br>
-             👀 my name is giovana franco and i am a Fullstack developer java🎓 .<br>
-                    📚 i'm currently learning reactJS and SpringBoot . <br>
-                      🎉✨ i intend to work with react native !.  <br>
-          🤔  i always excited to discover new technologies and practice what i know. <br><br>
-              ⚡ Fun fact: i love study programming , but hate study other thing 😂🤣.
-      <br><br>
-                                                
-</div>
-      
-      
+ ## Hi! I´m Giovana Borges
+
+### Sobre Mim:
+
+Tenho 18 anos, Atualmente participo de um programa de bolsa de estudos da Generation brasil com foco em JAVA FullStack.
+Sou curioso e busco constantemente aprender o que não sei, Faço projetos em reactJS e java , e pretendo evoluir minhas skills para Typescript e mongoDB!                                                      
+                                                     
  <br>
 O que me define até esse momento ?
 
