@@ -64,8 +64,7 @@ Bom... Sou um entusiasta da tecnologia e acredito que somente ela tornará um mu
   
   
 ### Giovana Borges on social media:
-<p align="left">
+
 <a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="giovana-franco-borges-607073184/" height="50" width="50" color="white" /></a>
-  <a href="https://www.behance.net/giovana_borges" target="blank"><h1>Behance</h1></a>
-</p>
+  <a href="https://www.behance.net/giovana_borges" height="50" width="50" target="blank"><h1>Behance</h1></a>
 <br>
