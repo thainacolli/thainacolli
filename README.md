@@ -7,8 +7,11 @@
 ### Sobre Mim:
 
 Tenho 18 anos, Atualmente participo de um programa de bolsa de estudos da Generation brasil com foco em JAVA FullStack.
-Sou curioso e busco constantemente aprender o que não sei, Faço projetos em reactJS e java , e pretendo evoluir minhas skills para Typescript e mongoDB!                                                      
-                                                     
+Sou curioso e busco constantemente aprender o que não sei, Faço projetos em reactJS e java , e pretendo evoluir minhas skills para Typescript e mongoDB!                         
+
+<br>
+Site Giovana (https://giovanaportifolio.herokuapp.com);
+
  <br>
 O que me define até esse momento ?
 
