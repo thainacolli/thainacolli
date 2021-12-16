@@ -10,7 +10,7 @@ Tenho 18 anos, Atualmente participo de um programa de bolsa de estudos da Genera
 Sou curioso e busco constantemente aprender o que não sei, Faço projetos em reactJS e java , e pretendo evoluir minhas skills para Typescript e mongoDB!                         
 
 <br>
-<h3>Portifolio :https://giovanaportifolio.herokuapp.com</h3>
+<h3>Portifolio https://giovanaportifolio.herokuapp.com</h3>
 
 
  <br>
