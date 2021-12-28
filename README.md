@@ -49,7 +49,6 @@ Bom... Sou um entusiasta da tecnologia e acredito que somente ela tornará um mu
 
   <br>
   
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
 ![reactJS](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=react)&nbsp;
