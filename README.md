@@ -43,15 +43,14 @@ What defines me until this moment?
 
 
 Well... I'm a technology enthusiast and I believe that only technology will make a more accessible and equitable world for everyone 👨👩👳👦!
-### Top Difficult Skills:
-
-
+### Top Skills:
   <br>
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
-![reactJS](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=react)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-springBoot-05122A?style=for-the-badge&logo=spring)&nbsp;
+![reactJS](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 
   <br>
 
