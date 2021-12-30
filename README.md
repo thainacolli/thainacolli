@@ -4,36 +4,36 @@
              
  ## Hi! I´m Giovana Borges
 
-### Sobre Mim:
+### About me:
 
-Tenho 18 anos, Atualmente participo de um programa de bolsa de estudos da Generation brasil com foco em JAVA FullStack.
-Sou curioso e busco constantemente aprender o que não sei, Faço projetos em reactJS e java , e pretendo evoluir minhas skills para Typescript e mongoDB!                         
+I'm 18 years old, I currently participate in a scholarship program at Generation Brazil with a focus on JAVA FullStack.
+I'm curious and I'm constantly looking to learn what I don't know, I do projects in reactJS and java, and I intend to evolve my skills to Typescript and mongoDB!                    
 
 <br>
 <h3>Portifolio https://giovanaportifolio.herokuapp.com</h3>
 
 
  <br>
-O que me define até esse momento ?
+What defines me until this moment?
 
-◉ Protagonismo
-◉ Liderança
-◉ Proatividade
-◉ Comunicação
-◉ Constância
-◉ Persistência
-◉ Aprender a aprender
+◉ Focus
+◉ Leadership
+◉ Proactivity
+◉ Communication
+◉ constancy
+◉ Persistence
+◉ learn to learn
 
 
   <br>
   
-  ### Principais Soft Skills:
+  ### Main Soft Skills:
 
 ![Resiliência](https://img.shields.io/badge/-Resiliência-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
 ![Flexibilidade](https://img.shields.io/badge/-flexibilidade-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
 ![Comunicação](https://img.shields.io/badge/-Comunica%C3%A7%C3%A3o-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
         
-### Ferramentas
+### Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
@@ -42,9 +42,8 @@ O que me define até esse momento ?
 ![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion&logoColor=ffffff)&nbsp;
 
 
-  
-Bom... Sou um entusiasta da tecnologia e acredito que somente ela tornará um mundo mais acessível e igualitário para todos 👨👩👳👦 !
-### Principais Hard Skills:
+Well... I'm a technology enthusiast and I believe that only technology will make a more accessible and equitable world for everyone 👨👩👳👦!
+### Top Difficult Skills:
 
 
   <br>
