@@ -6,12 +6,11 @@
 
 ### About me:
 
-I'm 18 years old, I currently participate in a scholarship program at Generation Brazil with a focus on JAVA FullStack.
-I'm curious and I'm constantly looking to learn what I don't know, I do projects in reactJS and java, and I intend to evolve my skills to Typescript and mongoDB!                    
+I'm 18 years old, I currently participate in a  Boootcamp at Generation Brazil with a focus on JAVA FullStack, and I'm doing the second semester of systems analysis and development at fatec
 
+I'm curious and I'm constantly looking to learn what I don't know, I do projects in reactJS and java, and I intend to evolve my skills to Typescript and mongoDB!                    
 <br>
 <h3>Portifolio https://giovanaportifolio.herokuapp.com</h3>
-
 
  <br>
 What defines me until this moment?
