@@ -2,11 +2,11 @@
     
                          
              
- ## Hi! I´m Giovana Borges
+ ## Hi! I´m Giovana Borges and I'm 18 years old,
 
 ### About me:
 
-I'm 18 years old, I currently participate in a  Boootcamp at Generation Brazil with a focus on JAVA FullStack, and I'm doing the second semester of systems analysis and development at fatec
+ I FullStack developer, and I'm doing the second semester of systems analysis and development at fatec .
 
 I'm curious and I'm constantly looking to learn what I don't know, I do projects in reactJS and java, and I intend to evolve my skills to Typescript and mongoDB!                    
 <br>
