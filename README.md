@@ -65,6 +65,6 @@ Well... I'm a technology enthusiast and I believe that only technology will make
   
 ### Giovana Borges on social media:
 
-<a href="" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="giovana-franco-borges-607073184/" height="50" width="50" color="white" /></a>
+<a href="https://www.linkedin.com/in/giovana-franco-borges/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/giovana-franco-borges/" height="50" width="50" color="white" /></a>
   <a href="https://www.behance.net/giovana_borges" height="50" width="50" target="blank"><h1>Behance</h1></a>
 <br>
