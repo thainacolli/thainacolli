@@ -6,7 +6,7 @@
 
 ### About me:
 
- I FullStack developer, and I'm doing the second semester of systems analysis and development at fatec .
+ I'm FullStack developer.
 
 I'm curious and I'm constantly looking to learn what I don't know, I do projects in reactJS and java, and I intend to evolve my skills to Typescript and mongoDB!                    
 <br>
