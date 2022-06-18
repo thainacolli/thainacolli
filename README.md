@@ -10,7 +10,7 @@
 
 I'm curious and I'm constantly looking to learn what I don't know, I do projects in reactJS and java, and I intend to evolve my skills to Typescript and mongoDB!                    
 <br>
-<h3>Portifolio https://giovanaportifolio.herokuapp.com</h3>
+<h3>Portifolio https://giovanaborges.netlify.app</h3>
 
  <br>
 What defines me until this moment?
