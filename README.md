@@ -2,7 +2,7 @@
     
                          
              
- ## Hi! I´m Giovana Borges and I'm 18 years old,
+ ## Hi! I´m Giovana Borges 
 
 ### About me:
 
