@@ -55,7 +55,7 @@ Well... I'm a technology enthusiast and I believe that only technology will make
 
 <div>
 <img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api?username=GiovanaBorges&show_icons=true&theme=radical" />
-<img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaBorges&layout=compact" />
+<img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaBorges&hide=html&layout=compact" />
 </div>
 
 
