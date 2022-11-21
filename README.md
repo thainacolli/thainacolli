@@ -49,6 +49,7 @@ What defines me until this moment?
 
 <div>
 <img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api?username=thainacolli&show_icons=true&theme=radical" />
+
 <img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainacolli&hide=html,css,php&layout=compact" />
 </div>
 
