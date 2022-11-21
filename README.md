@@ -2,15 +2,14 @@
     
                          
              
- ## Hi! I´m Giovana Borges 
+ ## Hi! I´m Thainá Colli 
 
 ### About me:
 
- I'm FullStack developer.
+ I'm developer Java.
 
-I'm curious and I'm constantly looking to learn what I don't know, I do projects in reactJS and java, and I intend to evolve my skills to Typescript and mongoDB!                    
+I'm curious and I'm constantly looking to learn what I don't know, I do projects in java, and I intend to evolve my skills in Backend and Frontend!                    
 <br>
-<h3>Portifolio https://giovanaborges.netlify.app</h3>
 
  <br>
 What defines me until this moment?
@@ -48,14 +47,12 @@ Well... I'm a technology enthusiast and I believe that only technology will make
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-springBoot-05122A?style=for-the-badge&logo=spring)&nbsp;
-![reactJS](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 
   <br>
 
 <div>
-<img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api?username=GiovanaBorges&show_icons=true&theme=radical" />
-<img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaBorges&hide=html,css,php&layout=compact" />
+<img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api?username=thainacolli&show_icons=true&theme=radical" />
+<img height="200cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainacolli&hide=html,css,php&layout=compact" />
 </div>
 
 
@@ -63,8 +60,7 @@ Well... I'm a technology enthusiast and I believe that only technology will make
   <br>
   
   
-### Giovana Borges on social media:
+### Thainá Colli on social media:
 
-<a href="https://www.linkedin.com/in/giovana-franco-borges/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/giovana-franco-borges/" height="50" width="50" color="white" /></a>
-  <a href="https://www.behance.net/giovana_borges" height="50" width="50" target="blank"><h1>Behance</h1></a>
+<a href="https://www.linkedin.com/in/thaina-colli" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/thaina-colli/" height="50" width="50" color="white" /></a>
 <br>
