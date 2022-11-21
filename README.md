@@ -38,7 +38,6 @@ What defines me until this moment?
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 
 
-Well... I'm a technology enthusiast and I believe that only technology will make a more accessible and equitable world for everyone 👨👩👳👦!
 ### Top Skills:
   <br>
   
