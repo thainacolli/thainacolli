@@ -2,26 +2,24 @@
     
                          
              
- ## Hi! I´m Thainá Colli 
+ ## Oii! Eu me chamo Thainá Colli 
 
-### About me:
+### Um pouco sobre mim:
 
- I'm developer Java.
+ Eu estudo para ser desenvolvedora Java
 
-I'm curious and I'm constantly looking to learn what I don't know, I do projects in java, and I intend to evolve my skills in Backend and Frontend!                    
+Sou curiosa e estou constantemente em busca de aprender o que não sei, faço projetos em java, e pretendo evoluir minhas habilidades em Backend.                   
 <br>
 
  <br>
-What defines me until this moment?
+O que me define até este momento?
 
-◉ Focus
-◉ Leadership
-◉ Proactivity
-◉ Communication
-◉ constancy
-◉ Persistence
-◉ learn to learn
-
+◉ Foco
+◉ Proatividade
+◉ Comunicação
+◉ Constância
+◉ Persistência
+◉ Aprenda a aprender
 
   <br>
   
