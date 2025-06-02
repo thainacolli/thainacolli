@@ -6,9 +6,11 @@
 
 ### Um pouco sobre mim:
 
- Eu estudo para ser desenvolvedora Java
+ Eu estudo para ser Analista de Dados
 
-Sou curiosa e estou constantemente em busca de aprender o que não sei, faço projetos em java, e pretendo evoluir minhas habilidades em Backend.                   
+Sou curiosa e estou constantemente em busca de aprender o que não sei. 
+Atuei como Analista de Desenvolvimento Junior por um tempo, onde trabalhei a maior parte com java, hoje estou migrando de área, indo para Análise de Dados.
+Focando meu aprendizado em ferramentas que me ajudem a evoluir nessa área, como Excel, Power BI, SQL e Python.
 <br>
 
  <br>
